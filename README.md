@@ -1,7 +1,5 @@
 ![info](https://github-readme-stats.vercel.app/api?username=lr580&show_icons=true&theme=radical&hide=prs,contribs)
 
-![lr580's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lr580&show_icons=true&count_private=true&theme=gotham&layout=compact)
-
 I am a college student. My blog is [here](https://lr580.github.io/). Contact me via QQ 2277379149
 
 A brief introduction of my repositories: (latest updated of the introduction was on Apr. 12, 2023)
@@ -24,5 +22,5 @@ A brief introduction of my repositories: (latest updated of the introduction was
 
 Some other my repositories are on [gitee](https://gitee.com/lr580) , visit it if you're interested~
 
-
+![lr580's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lr580&show_icons=true&count_private=true&theme=gotham&layout=compact)
 
