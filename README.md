@@ -2,7 +2,7 @@
 
 I am a college student. My blog is [here](https://lr580.github.io/). Contact me via QQ 2277379149
 
-A brief introduction of my repositories: (latest updated of the introduction was on Sept. 12, 2023)
+A brief introduction of my repositories: (latest updated of the introduction was on Oct. 12, 2023)
 
 1. [algorithm_template](https://github.com/lr580/algorithm_template) Some templates of algorithm for ICPC(ACM)/CCPC, mainly written by C++, the pdf version is about 300 pages.
 2. [shannon_sources](https://github.com/lr580/shannon_sources) Some slides and data about algorithm used for SCNU Socoding Shannon(a club which teaches algorithm) teaching and holding contest. 
@@ -18,9 +18,10 @@ A brief introduction of my repositories: (latest updated of the introduction was
 12. [WentAssistant](https://github.com/lr580/WentAssistant) Simple Java GUI program for keeping my own accounts.
 13. [java_homework](https://github.com/lr580/java_homework) Homework for college curriculum, a Java GUI program practicing CRUD on MySQL.
 14. [FoodGuardian](https://github.com/lr580/FoodGuardian) Simple Python 2D game for competition based on PyGame module.
-15. [guodongImage](https://github.com/lr580/guodongImage) Simple Python scripts for some basic image processing and automatic production of stickers.
-16. [emoji_automaton](https://github.com/lr580/emoji_automaton) Simple Python script for managing stickers, and a repository for collecting stickers and sorted by themes.
-17. [lr580.github.io](https://github.com/lr580/lr580.github.io) My blog powered by Hexo and deployed on Github.
+15. [456-fullerene](https://github.com/liangjunhello/456-fullerene) Some C and Python implementation codes of a paper *Cyclic vertex connectivity for (4,5,6)-fullerene graphs*.
+16. [guodongImage](https://github.com/lr580/guodongImage) Simple Python scripts for some basic image processing and automatic production of stickers.
+17. [emoji_automaton](https://github.com/lr580/emoji_automaton) Simple Python script for managing stickers, and a repository for collecting stickers and sorted by themes.
+18. [lr580.github.io](https://github.com/lr580/lr580.github.io) My blog powered by Hexo and deployed on Github.
 
 Some other my repositories are on [gitee](https://gitee.com/lr580) , visit it if you're interested~
 
