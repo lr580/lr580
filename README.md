@@ -2,7 +2,7 @@
 
 I am a college student. My blog is [here](https://lr580.github.io/). Contact me via QQ 2277379149
 
-A brief introduction of my repositories: (latest updated of the introduction was on Oct. 12, 2023)
+A brief introduction of my repositories: (latest updated of the introduction was on Oct. 9, 2024)
 
 1. [algorithm_template](https://github.com/lr580/algorithm_template) Some templates of algorithm for ICPC(ACM)/CCPC, mainly written by C++, the pdf version is about 300 pages.
 2. [shannon_sources](https://github.com/lr580/shannon_sources) Some slides and data about algorithm used for SCNU Socoding Shannon(a club which teaches algorithm) teaching and holding contest. 
@@ -16,12 +16,16 @@ A brief introduction of my repositories: (latest updated of the introduction was
 10. [php_homework](https://github.com/lr580/php_homework) Homework for college curriculum, a PHP based shopping website using ThinkPHP framework.
 11. [web_homework](https://github.com/lr580/web_homework) Homework for college curriculum, a blog and simple tools website using html, css, js and jquery.
 12. [WentAssistant](https://github.com/lr580/WentAssistant) Simple Java GUI program for keeping my own accounts.
-13. [java_homework](https://github.com/lr580/java_homework) Homework for college curriculum, a Java GUI program practicing CRUD on MySQL.
-14. [FoodGuardian](https://github.com/lr580/FoodGuardian) Simple Python 2D game for competition based on PyGame module.
-15. [456-fullerene](https://github.com/liangjunhello/456-fullerene) Some C and Python implementation codes of a paper *Cyclic vertex connectivity for (4,5,6)-fullerene graphs*.
-16. [guodongImage](https://github.com/lr580/guodongImage) Simple Python scripts for some basic image processing and automatic production of stickers.
-17. [emoji_automaton](https://github.com/lr580/emoji_automaton) Simple Python script for managing stickers, and a repository for collecting stickers and sorted by themes.
-18. [lr580.github.io](https://github.com/lr580/lr580.github.io) My blog powered by Hexo and deployed on Github.
+13. [java_homework](https://github.com/lr580/java_homework) Homework for college curriculum, a Java Swing program practicing CRUD on MySQL.
+14. [subwayScheme](https://github.com/lr580/subwayScheme) Homework for college curriculum, a Java Swing program using Dijkstra to solve the shortest path of the subway.
+15. [codeSpeedUp](https://github.com/lr580/codeSpeedUp) A web game for improve typing codes' speed, using Python FastAPI backend and Vue3 frontend.
+16. [FoodGuardian](https://github.com/lr580/FoodGuardian) Simple Python 2D game for competition based on PyGame module.
+17. [456-fullerene](https://github.com/liangjunhello/456-fullerene) Some C and Python implementation codes of a paper *Cyclic vertex connectivity for (4,5,6)-fullerene graphs*.
+18. [learn_neural_network](https://github.com/lr580/learn_neural_network) Sample homework for curriculum CSE51B PA1, implementing a neural network using NumPy from scratch.
+19. [power_outages_stats](https://lr580.github.io/power_outages_stats/) and [power_outages_prediction](https://lr580.github.io/power_outages_prediction/) Sample homework for curriculum DSC80 projects, practicing NumPy, Pandas and machine learning models.
+20. [guodongImage](https://github.com/lr580/guodongImage) Simple Python scripts for some basic image processing and automatic production of stickers.
+21. [emoji_automaton](https://github.com/lr580/emoji_automaton) Simple Python script for managing stickers, and a repository for collecting stickers and sorted by themes.
+22. [lr580.github.io](https://github.com/lr580/lr580.github.io) My blog powered by Hexo and deployed on Github.
 
 Some other my repositories are on [gitee](https://gitee.com/lr580) , visit it if you're interested~
 
