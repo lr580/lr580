@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=lr580&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lr580&hide=css,html&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=lr580&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lr580&hide=css,html&layout=compact&langs_count=8&locale=cn)
 
 I am a college student. My blog is [here](https://lr580.github.io/). Contact me via QQ 2277379149
 
