@@ -1,7 +1,7 @@
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lr580&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1"> 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lr580&hide=css,html&layout=compact&langs_count=8">
-
+</div>
 <div style="clear: both;"></div> <!-- 清除浮动 -->
 
 I am a college student. My blog is [here](https://lr580.github.io/). Contact me via QQ 2277379149
