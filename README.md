@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=lr580&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lr580&hide=css,html&layout=compact&langs_count=8&locale=cn)
+![lr580's Basic Stats](https://github-readme-stats.vercel.app/api?username=lr580&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1) ![lr580's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lr580&hide=css,html&layout=compact&langs_count=8&locale=cn)
 
 I am a college student. My blog is [here](https://lr580.github.io/). Contact me via QQ 2277379149
 
@@ -28,6 +28,3 @@ A brief introduction of my repositories: (latest updated of the introduction was
 22. [lr580.github.io](https://github.com/lr580/lr580.github.io) My blog powered by Hexo and deployed on Github.
 
 Some other my repositories are on [gitee](https://gitee.com/lr580) , visit it if you're interested~
-
-![lr580's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lr580&show_icons=true&count_private=true&theme=gotham&layout=compact)
-
