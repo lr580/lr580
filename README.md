@@ -2,6 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lr580&hide=css,html&layout=compact&langs_count=8">
 
+<div style="clear: both;"></div> <!-- 清除浮动 -->
+
 I am a college student. My blog is [here](https://lr580.github.io/). Contact me via QQ 2277379149
 
 A brief introduction of my repositories: (latest updated of the introduction was on Oct. 9, 2024)
