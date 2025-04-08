@@ -1,4 +1,4 @@
-![lr580's Basic Stats](https://github-readme-stats.vercel.app/api?username=lr580&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1) ![lr580's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lr580&hide=css,html&layout=compact&langs_count=8&locale=cn)
+![lr580's Basic Stats](https://github-readme-stats.vercel.app/api?username=lr580&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1) <!-- ![lr580's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lr580&hide=css,html&layout=compact&langs_count=8&locale=cn) -->
 
 I am a postgraduate at SYSU. My blog is [here](https://lr580.github.io/). Contact me via QQ 2277379149.
 
@@ -23,9 +23,6 @@ A brief introduction of my repositories: (latest updated of the introduction was
 17. [subwayScheme](https://github.com/lr580/subwayScheme) Homework for college curriculum, a Java Swing program using Dijkstra to solve the shortest path of the subway. *[2021-12]*
 18. [456-fullerene](https://github.com/liangjunhello/456-fullerene) Some C and Python implementation codes of a paper *Cyclic vertex connectivity for (4,5,6)-fullerene graphs*. *[2022-8]*
 19. [datamining_homework](https://github.com/lr580/datamining_homework) Homework for postgraduate curriculum, implementing hierarchical clustering and GMM with data structure optimization using NumPy from scratch. *[2024-12]*
-20. [learn_neural_network](https://github.com/lr580/learn_neural_network) Sample homework for curriculum CSE51B PA1, implementing a neural network using NumPy from scratch. *[2024-1]*
-21. [power_outages_stats](https://lr580.github.io/power_outages_stats/) and [power_outages_prediction](https://lr580.github.io/power_outages_prediction/) Sample homework for curriculum DSC80 projects, practicing NumPy, Pandas and machine learning models. *[2023-12]*
-22. [guodongImage](https://github.com/lr580/guodongImage) Simple Python scripts for some basic image processing and automatic production of stickers. *[2022-9]*
 23. [MethorsForYou](https://github.com/lr580/MethorsForYou) Simple "Apple Catch" Python 2D game made by Pygame. *[2019-4]*
 24. [accountStorage](https://github.com/lr580/accountStorage) Simple account storage GUI application made by Easy Programming Language. *[2016-10]*
 25. [SphereTrek](https://github.com/lr580/SphereTrek) Simple Flash game made when I was 11.  *[2013-7]*
